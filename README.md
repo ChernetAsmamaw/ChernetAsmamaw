@@ -1,4 +1,5 @@
 ### Hi there 👋
+![unnamed](https://user-images.githubusercontent.com/113379056/213289932-b9c41acb-ae43-43aa-a133-c0c2e0e54091.jpg)
 
 <!--
 **ChernetAsmamaw/ChernetAsmamaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
