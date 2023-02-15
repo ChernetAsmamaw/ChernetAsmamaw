@@ -1,9 +1,7 @@
 <h1> Hi 👋 </h1>
 
 <h4> Welcome to my GitHub profile. I am Chernet Asmamaw, an undergraduate software engineering student at ALU. The plan for now is just to tryna' hustle. </h4>
-![giphy](https://user-images.githubusercontent.com/113379056/218981087-e8e0ff28-ac10-4cce-8383-f2be712ea56e.gif)
-
-
+![image](https://user-images.githubusercontent.com/113379056/218981421-b2e7cde2-642a-4a0c-93eb-e68356923c4d.png)
 <h6> update coming sooooooooon! 😉</h6>
 
 <!--
