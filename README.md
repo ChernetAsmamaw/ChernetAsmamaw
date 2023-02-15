@@ -1,5 +1,9 @@
-### Hi there 👋
-![unnamed](https://user-images.githubusercontent.com/113379056/213289932-b9c41acb-ae43-43aa-a133-c0c2e0e54091.jpg)
+<h1> Hi 👋 </h1>
+
+<h4> Welcome to my GitHub profile. I am Chernet Asmamaw, an undergraduate software engineering student at ALU. The plan for now is just to tryna' hustle. </h4>
+<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/113379056/213289932-b9c41acb-ae43-43aa-a133-c0c2e0e54091.jpg)" width="100" height="100">
+
+<h6> update coming sooooooooon! 😉</h6>
 
 <!--
 **ChernetAsmamaw/ChernetAsmamaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
