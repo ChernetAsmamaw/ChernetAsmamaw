@@ -5,7 +5,6 @@
 <body style="background-color: white !important;">
 
 
-
 # Hey there :wave: 
 
 ## I'm Chernet, Welcome to my GitHub profile!
