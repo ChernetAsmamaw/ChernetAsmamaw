@@ -1,7 +1,5 @@
 # Hey there :wave: 
 
-&nbsp;
-
 ## I'm Chernet, Welcome to my GitHub profile!
 
 
@@ -12,7 +10,7 @@
 &nbsp;
 
 
-<h3 align="center"> 
+<h2 align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </h2>
@@ -41,9 +39,9 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
 
 
 &nbsp;
-&nsbp;
 
 
 <div id="header">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlxbjFlNjVvajV5M3RobXgxc3liaDFsbjJ5b2xhaTVzcHlnOXR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="580" height="420">
+  <iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="1080" height="640" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
 </div>
