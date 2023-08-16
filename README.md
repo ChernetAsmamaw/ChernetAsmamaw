@@ -4,8 +4,8 @@
 
 &nbsp;
 
-<div style="text-align: center;">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="640" height="540" alt="Hello world">
+<div style="item-align: center;">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="640" height="420" alt="Hello world">
 </div>
 &nbsp;
 
