@@ -1,23 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body style="background-color: white !important;">
-
-
 # Hey there :wave: 
 
 ## I'm Chernet, Welcome to my GitHub profile!
 
 
 <div align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="800" height="380" alt="Hello world">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="780" height="380" alt="Hello world">
 </div>
 
-<h2 align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</h2>
 
 &nbsp;
 
@@ -46,11 +35,3 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
 </div>
 
-
-
-
-
-
-  
-</body>
-</html>
