@@ -15,7 +15,6 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
 
 ## Languages and Tools
 
-&nbsp;
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="70" height="70"/>&nbsp;
@@ -33,6 +32,3 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
 </div>
 
-
-&nbsp;
-&nbsp;
