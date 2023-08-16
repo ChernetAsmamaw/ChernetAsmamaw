@@ -42,6 +42,5 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
 
 
 <div id="header">
-  <iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="1080" height="640" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  <p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlxbjFlNjVvajV5M3RobXgxc3liaDFsbjJ5b2xhaTVzcHlnOXR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="1080" height="640">
 </div>
