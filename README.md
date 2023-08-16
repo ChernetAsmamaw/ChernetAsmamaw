@@ -5,7 +5,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="720" height="360" alt="Hello world">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="820" height="460" alt="Hello world">
 </div>
 
 &nbsp;
@@ -16,6 +16,7 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </h2>
 
+&nbsp;
 
 ## About me
 I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am passionate about full-stack web development, with a strong focus on frontend. I love designing and building intuitive user interfaces that combine functionality and aesthetics to create immersive web experiences.
