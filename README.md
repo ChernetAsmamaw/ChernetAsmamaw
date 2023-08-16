@@ -4,9 +4,9 @@
 
 &nbsp;
 
-<p align="center">
+<div align="center">
   <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="640" height="400" alt="Hello world">
-</p>
+</div>
 
 &nbsp;
 
