@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<body style="background-color: white;">
+<body style="background-color: white !important;">
 
 
 
