@@ -12,7 +12,6 @@
 ## About me
 I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am passionate about full-stack web development, with a strong focus on frontend. I love designing and building intuitive user interfaces that combine functionality and aesthetics to create immersive web experiences.
 
-&nbsp;
 
 ## Languages and Tools
 
@@ -34,3 +33,6 @@ I am Chernet Asmamaw, an undergraduate software engineering student at ALU. I am
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="70" height="70"/>&nbsp;
 </div>
 
+
+&nbsp;
+&nbsp;
