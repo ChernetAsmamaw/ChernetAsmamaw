@@ -2,14 +2,10 @@
 
 ## I'm Chernet, Welcome to my GitHub profile!
 
-&nbsp;
 
 <div align="center">
-  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="820" height="460" alt="Hello world">
+  <img src="https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png" width="800" height="400" alt="Hello world">
 </div>
-
-&nbsp;
-
 
 <h2 align="center"> 
   Visitor count<br>
