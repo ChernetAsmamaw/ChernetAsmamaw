@@ -6,7 +6,7 @@
 ###### I am Chernet Asmamaw. I am studying software engineering at ALU. I am passionate about full-stack web development and mobile app development.
 
 ## 🌐 Socials:
-[![Portfolio](www.chernet.dev) 
+[Portfolio](www.chernet.dev) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ChernetAsmamaw) 
 
 ## 💻 Tech Stack:
