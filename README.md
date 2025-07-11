@@ -3,9 +3,7 @@
 ## Welcome to my GitHub!
 
 ### About Me
-I'm **Chernet Asmamaw**, a Software Engineer with a strong passion for **full-stack web development** and **mobile app development**. I specialize in building scalable, high-performance applications using modern technologies. My focus is on writing clean, maintainable code and delivering intuitive user experiences.
-
-I’m always working on interesting projects and exploring new tools to stay on the cutting edge of the tech world. Whether it's front-end interfaces or back-end systems, I enjoy building products that make a real impact.
+I'm **Chernet Asmamaw**, a Software Engineer with a strong passion for **full-stack web development** and **mobile app development**. I specialize in building scalable, high-performance applications using modern technologies. My focus is on writing clean, maintainable code and delivering intuitive user experiences. I’m always working on interesting projects and exploring new tools to stay on the cutting edge of the tech world. 
 
 ### Connect With Me
 - 🌐 [Portfolio](https://www.chernet.dev)
