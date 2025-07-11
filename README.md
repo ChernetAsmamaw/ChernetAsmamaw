@@ -1,15 +1,15 @@
-# Hi there 👋
+# HI THERE !!👋
 
-# Welcome to my GitHub!
+## Welcome to my GitHub!
 
-## About Me
+### About Me
 I'm **Chernet Asmamaw**, a Software Engineer with a strong passion for **full-stack web development** and **mobile app development**. I specialize in building scalable, high-performance applications using modern technologies. My focus is on writing clean, maintainable code and delivering intuitive user experiences. I’m always working on interesting projects and exploring new tools to stay on the cutting edge of the tech world. 
 
-## Connect With Me
+### Connect With Me
 - 🌐 [Portfolio](https://www.chernet.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/Chernet-Asmamaw)
 
-## Things I Love
+### Things I Love
 - 🎶 Jamming to my favorite tunes
 - 🍕 Pizza nights with friends  
 - 🏃‍♂️ Running or walking to clear my mind  
@@ -19,7 +19,7 @@ I'm **Chernet Asmamaw**, a Software Engineer with a strong passion for **full-st
 - 🎱 Playing pool & board games for fun  
 - 🛠️ Tinkering with electronics (Arduino, Raspberry Pi)  
 
-## 💻 Technologies I Work With
+### 💻 Technologies I Work With
 ![SAP](https://img.shields.io/badge/SAP-%23007EB6.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![ABAP](https://img.shields.io/badge/ABAP-%23000000.svg?style=for-the-badge&logo=abap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)
